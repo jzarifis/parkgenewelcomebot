@@ -13,8 +13,8 @@ from telegram.contrib.botan import Botan
 import python3pickledb as pickledb
 
 # Configuration
-BOTNAME = 'usernameofbot'
-TOKEN = 'TOKEN'
+BOTNAME = 'parkgenewelcomebot'
+TOKEN = '502032499:AAFyx77Yo96X_uDbe7hs0uOwhhVbHGMo3SY'
 BOTAN_TOKEN = 'BOTANTOKEN'
 
 help_text = 'Welcomes everyone that enters a group chat that this bot is a ' \
