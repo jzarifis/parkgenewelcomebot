@@ -1,1 +1,1 @@
-python-telegram-bot==4.0rc1
+python-telegram-bot==5.1.1
